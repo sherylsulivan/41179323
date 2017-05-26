@@ -35,7 +35,7 @@ ul.MenuBarVertical li
 	position: relative;
 	text-align: left;
 	cursor: pointer;
-	width: 12em;
+	width: 30em;
 }
 /* Submenus should appear slightly overlapping to the right (95%) and up (-5%) with a higher z-index, but they are initially off the left side of the screen (-1000em) */
 ul.MenuBarVertical ul
